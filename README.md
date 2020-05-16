@@ -1,6 +1,6 @@
 # ExamNation
 
-### This is the private repository for our project.
+### This is the public repository for our project.
 
 
 Team Name `J.A.R.V.I.S`
